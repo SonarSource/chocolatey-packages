@@ -9,7 +9,7 @@
     <owners>SonarSource</owners>
     <summary>The MSBuild SonarQube Runner allows easy analysis of any .NET project with SonarQube.</summary>
     <description>The MSBuild SonarQube Runner allows easy analysis of any .NET project with SonarQube.</description>
-    <projectUrl>http://www.github.com/SonarSource/sonar-msbuild-runner</projectUrl>
+    <projectUrl>http://redirect.sonarsource.com/doc/msbuild-sq-runner.html</projectUrl>
     <tags>sonarqube msbuild runner sonarsource sonar sonar-runner sonarrunner</tags>
     <copyright>SonarSource SA and Microsoft Corporation</copyright>
     <licenseUrl>https://raw.githubusercontent.com/SonarSource/sonar-msbuild-runner/master/License.txt</licenseUrl>
