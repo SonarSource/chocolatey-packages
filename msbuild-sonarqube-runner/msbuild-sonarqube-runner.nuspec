@@ -3,18 +3,18 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>msbuild-sonarqube-runner</id>
-    <title>MSBuild SonarQube Runner</title>
+    <title>SonarQube Scanner for MSBuild</title>
     <version>1.1.0.20160205</version>
     <authors>SonarSource,Microsoft</authors>
     <owners>SonarSource</owners>
-    <summary>The MSBuild SonarQube Runner allows easy analysis of any .NET project with SonarQube.</summary>
-    <description>The MSBuild SonarQube Runner allows easy analysis of any .NET project with SonarQube.</description>
+    <summary>The SonarQube Scanner for MSBuild allows easy analysis of any .NET project with SonarQube.</summary>
+    <description>The SonarQube Scanner for MSBuild allows easy analysis of any .NET project with SonarQube.</description>
     <projectUrl>http://redirect.sonarsource.com/doc/msbuild-sq-runner.html</projectUrl>
-    <tags>sonarqube msbuild runner sonarsource sonar sonar-runner sonarrunner</tags>
+    <tags>sonarqube msbuild runner scanner sonarsource sonar sonar-runner sonarrunner</tags>
     <copyright>SonarSource SA and Microsoft Corporation</copyright>
     <licenseUrl>https://raw.githubusercontent.com/SonarSource/sonar-msbuild-runner/master/License.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes><![CDATA[[https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=11721](https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=11721)]]></releaseNotes>
+    <releaseNotes><![CDATA[[https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=12452](https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=12452)]]></releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />

@@ -2,7 +2,7 @@
 $checksum = "D9302247D6AAFAB2B76256BFC96FC8F74468B87A"
 
 Install-ChocolateyZipPackage 'msbuild-sonarqube-runner' `
-  -url '$url' `
+  -url "$url" `
   -unzipLocation "$(Split-Path -parent $MyInvocation.MyCommand.Definition)" `
   -checksumType 'sha1' `
-  -checksum '$checksum'
+  -checksum "$checksum"
