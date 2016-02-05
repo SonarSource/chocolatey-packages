@@ -12,7 +12,7 @@
     <projectUrl>http://redirect.sonarsource.com/doc/msbuild-sq-runner.html</projectUrl>
     <tags>sonarqube msbuild runner scanner sonarsource sonar sonar-runner sonarrunner</tags>
     <copyright>SonarSource SA and Microsoft Corporation</copyright>
-    <licenseUrl>https://raw.githubusercontent.com/SonarSource/sonar-msbuild-runner/master/License.txt</licenseUrl>
+    <licenseUrl>https://github.com/SonarSource-VisualStudio/sonar-msbuild-runner/blob/master/License.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <releaseNotes><![CDATA[[https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=12452](https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=12452)]]></releaseNotes>
   </metadata>
