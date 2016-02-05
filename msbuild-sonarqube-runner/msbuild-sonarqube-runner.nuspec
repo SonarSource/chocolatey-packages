@@ -4,7 +4,7 @@
   <metadata>
     <id>msbuild-sonarqube-runner</id>
     <title>MSBuild SonarQube Runner</title>
-    <version>1.0.0.20150831</version>
+    <version>1.1.0.20160205</version>
     <authors>SonarSource,Microsoft</authors>
     <owners>SonarSource</owners>
     <summary>The MSBuild SonarQube Runner allows easy analysis of any .NET project with SonarQube.</summary>
