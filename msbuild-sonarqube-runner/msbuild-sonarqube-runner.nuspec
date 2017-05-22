@@ -20,6 +20,7 @@
     <docsUrl>https://redirect.sonarsource.com/doc/install-configure-scanner-msbuild.html</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/sonarqube</mailingListUrl>
     <bugTrackerUrl>https://jira.sonarsource.com/browse/SONARMSBRU</bugTrackerUrl>
+    <iconUrl>https://cdn.rawgit.com/SonarSource/chocolatey-packages/c62f2c872de1268c4a219c9084198e1311133738/msbuild-sonarqube-runner/sonarqube_waves_512px.png</iconUrl>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
