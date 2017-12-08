@@ -1,6 +1,6 @@
 ﻿$packageName = 'msbuild-sonarqube-runner'
-$url = 'https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/3.0.2.656/sonar-scanner-msbuild-3.0.2.656.zip'
-$checksum = '59a379d79e11d5975585696bfb69e5a6f5092ea4'
+$url = 'https://github.com/SonarSource/sonar-scanner-msbuild/releases/download/4.0.0.821/sonar-scanner-msbuild-4.0.0.821.zip'
+$checksum = '139d3f990d56edfa3c171bf3858754f49f1e9bff'
 $toolsDir = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
 Install-ChocolateyZipPackage $packageName `
   -url "$url" `
