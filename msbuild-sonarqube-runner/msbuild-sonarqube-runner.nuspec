@@ -4,7 +4,7 @@
   <metadata>
     <id>msbuild-sonarqube-runner</id>
     <title>SonarQube Scanner for MSBuild</title>
-    <version>4.0.1</version>
+    <version>4.0.2</version>
     <authors>SonarSource,Microsoft</authors>
     <owners>SonarSource</owners>
     <summary>The SonarQube Scanner for MSBuild allows easy analysis of any .NET project with SonarQube.</summary>
@@ -16,7 +16,7 @@
     <copyright>SonarSource SA and Microsoft Corporation</copyright>
     <licenseUrl>https://github.com/SonarSource/sonar-scanner-msbuild/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes><![CDATA[[https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=13995](https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=13995)]]></releaseNotes>
+    <releaseNotes><![CDATA[[https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=14193](https://jira.sonarsource.com/jira/secure/ReleaseNote.jspa?projectId=10941&version=14193)]]></releaseNotes>
     <docsUrl>https://redirect.sonarsource.com/doc/install-configure-scanner-msbuild.html</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/sonarqube</mailingListUrl>
     <bugTrackerUrl>https://jira.sonarsource.com/browse/SONARMSBRU</bugTrackerUrl>
