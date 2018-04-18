@@ -4,22 +4,22 @@
   <metadata>
     <id>msbuild-sonarqube-runner</id>
     <title>SonarQube Scanner for MSBuild</title>
-    <version>4.1.1</version>
+    <version>4.2.0</version>
     <authors>SonarSource,Microsoft</authors>
     <owners>SonarSource</owners>
-    <summary>The SonarQube Scanner for MSBuild allows easy analysis of any .NET project with SonarQube.</summary>
-    <description>The SonarQube Scanner for MSBuild allows easy analysis of any .NET project with SonarQube.</description>
+    <summary>The SonarScanner for MSBuild allows easy analysis of any .NET project with SonarCloud/SonarQube.</summary>
+    <description>The SonarScanner for MSBuild allows easy analysis of any .NET project with SonarCloud/SonarQube.</description>
     <projectUrl>http://redirect.sonarsource.com/doc/msbuild-sq-runner.html</projectUrl>
     <projectSourceUrl>https://github.com/SonarSource/sonar-scanner-msbuild</projectSourceUrl>
     <packageSourceUrl>https://github.com/SonarSource/chocolatey-packages/tree/master/msbuild-sonarqube-runner</packageSourceUrl>
-    <tags>sonarqube msbuild scanner sonarsource sonar sonar-scanner sonarscanner</tags>
+    <tags>sonarqube sonarcloud msbuild scanner sonarsource sonar sonar-scanner sonarscanner</tags>
     <copyright>SonarSource SA and Microsoft Corporation</copyright>
     <licenseUrl>https://github.com/SonarSource/sonar-scanner-msbuild/blob/master/LICENSE.txt</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <releaseNotes><![CDATA[[https://github.com/SonarSource/sonar-scanner-msbuild/releases/tag/4.1.1.1164](https://github.com/SonarSource/sonar-scanner-msbuild/releases/tag/4.1.1.1164)]]></releaseNotes>
+    <releaseNotes><![CDATA[[https://github.com/SonarSource/sonar-scanner-msbuild/releases/tag/4.2.0.1214](https://github.com/SonarSource/sonar-scanner-msbuild/releases/tag/4.2.0.1214)]]></releaseNotes>
     <docsUrl>https://redirect.sonarsource.com/doc/install-configure-scanner-msbuild.html</docsUrl>
     <mailingListUrl>https://groups.google.com/forum/#!forum/sonarqube</mailingListUrl>
-    <bugTrackerUrl>https://jira.sonarsource.com/browse/SONARMSBRU</bugTrackerUrl>
+    <bugTrackerUrl>https://github.com/SonarSource/sonar-scanner-msbuild/issues</bugTrackerUrl>
     <iconUrl>https://cdn.rawgit.com/SonarSource/chocolatey-packages/c62f2c872de1268c4a219c9084198e1311133738/msbuild-sonarqube-runner/sonarqube_waves_512px.png</iconUrl>
   </metadata>
   <files>
